@@ -1,1 +1,8 @@
 #intial creation of css for project
+body {
+  font-family: Tahoma, Verdana, Arial, sans-serif;
+}
+.loaded {
+  color: #0CC;
+  font-weight: bold;
+}
